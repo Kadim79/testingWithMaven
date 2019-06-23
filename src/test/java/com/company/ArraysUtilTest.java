@@ -1,16 +1,28 @@
 package com.company;
 
 import org.junit.Assert;
+import org.junit.Before;
 import org.junit.Test;
 
 public class ArraysUtilTest {
+
+    private ArraysUtil arraysUtil;
+
+    @Before
+
+    public void setUp(){
+
+        arraysUtil = new ArraysUtil();
+    }
+
+
     @Test
 
     public void binarySearchTestExistingElement() {
 
         int[] array ={1,3,5,7,9,10};
         int n =7;
-        int result = new ArraysUtil().binarySearch(array,n);
+        int result = arraysUtil.binarySearch(array,n); // se poate scrie new ArraysUtil() in loc de arraysUtil
         Assert.assertEquals(3,result);
     }
 

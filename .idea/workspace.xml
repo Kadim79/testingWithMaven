@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e6028b1-db79-4116-8213-6bce6542673c" name="Default Changelist" comment="" />
+    <list default="true" id="6e6028b1-db79-4116-8213-6bce6542673c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JunitLearningTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JunitLearningTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/ArraysUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/company/ArraysUtilTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/company/ArraysUtilTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <state relative-caret-position="140">
+              <caret line="24" column="110" selection-start-line="24" selection-start-column="110" selection-end-line="24" selection-end-column="110" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/JunitLearningTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="139">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,6 +73,9 @@
       <dir>$PROJECT_DIR$/src/main/java</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -75,8 +83,8 @@
         <option value="$PROJECT_DIR$/src/main/java/ArraysUtil.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/JunitLearning.java" />
-        <option value="$PROJECT_DIR$/src/test/java/JunitLearningTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/ArraysUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/JunitLearningTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/company/ArraysUtilTest.java" />
       </list>
     </option>
@@ -115,6 +123,7 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -128,6 +137,30 @@
               <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -136,7 +169,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561283160456" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561287819036" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -154,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArraysUtilTest">
+  <component name="RunManager" selected="JUnit.JunitLearningTest.test2">
     <configuration name="ArraysUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <extension name="coverage">
@@ -165,38 +198,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
       <option name="MAIN_CLASS_NAME" value="com.company.ArraysUtilTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraysUtilTest.binarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.ArraysUtilTest" />
-      <option name="METHOD_NAME" value="binarySearchTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraysUtilTest.binarySearchTestNotExistingElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.ArraysUtilTest" />
-      <option name="METHOD_NAME" value="binarySearchTestNotExistingElement" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -217,6 +218,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JunitLearningTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitLearningTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JunitLearningTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="PACKAGE_NAME" value="" />
@@ -227,13 +236,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JunitLearningTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitLearningTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JunitLearningTest.test2" />
+        <item itemvalue="JUnit.JunitLearningTest" />
+        <item itemvalue="JUnit.JunitLearningTest.test1" />
         <item itemvalue="JUnit.ArraysUtilTest" />
         <item itemvalue="JUnit.ArraysUtilTest.bubbleSortTest" />
-        <item itemvalue="JUnit.ArraysUtilTest.binarySearchTestNotExistingElement" />
-        <item itemvalue="JUnit.ArraysUtilTest.binarySearchTest" />
-        <item itemvalue="JUnit.JunitLearningTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -251,35 +270,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArraysUtilTest_binarySearchTest - 2019.06.23 at 12h 10m 19s.xml">
-      <configuration name="ArraysUtilTest.binarySearchTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysUtilTest_binarySearchTestNotExistingElement - 2019.06.23 at 12h 16m 51s.xml">
-      <configuration name="ArraysUtilTest.binarySearchTestNotExistingElement" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysUtilTest_binarySearchTestNotExistingElement - 2019.06.23 at 12h 18m 27s.xml">
-      <configuration name="ArraysUtilTest.binarySearchTestNotExistingElement" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysUtilTest_binarySearchTestNotExistingElement - 2019.06.23 at 12h 18m 50s.xml">
-      <configuration name="ArraysUtilTest.binarySearchTestNotExistingElement" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysUtilTest_binarySearchTestNotExistingElement - 2019.06.23 at 12h 19m 16s.xml">
-      <configuration name="ArraysUtilTest.binarySearchTestNotExistingElement" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysUtilTest_binarySearchTestNotExistingElement - 2019.06.23 at 12h 19m 37s.xml">
-      <configuration name="ArraysUtilTest.binarySearchTestNotExistingElement" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysUtilTest_binarySearchTestNotExistingElement - 2019.06.23 at 12h 20m 57s.xml">
-      <configuration name="ArraysUtilTest.binarySearchTestNotExistingElement" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArraysUtilTest_bubbleSortTest - 2019.06.23 at 12h 32m 18s.xml">
-      <configuration name="ArraysUtilTest.bubbleSortTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArraysUtilTest_bubbleSortTest - 2019.06.23 at 12h 35m 35s.xml">
       <configuration name="ArraysUtilTest.bubbleSortTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ArraysUtilTest - 2019.06.23 at 12h 46m 03s.xml">
       <configuration name="ArraysUtilTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitLearningTest_test1 - 2019.06.23 at 13h 41m 10s.xml">
+      <configuration name="JunitLearningTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitLearningTest_test2 - 2019.06.23 at 13h 42m 54s.xml">
+      <configuration name="JunitLearningTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitLearningTest_test1 - 2019.06.23 at 13h 43m 49s.xml">
+      <configuration name="JunitLearningTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitLearningTest_test1 - 2019.06.23 at 13h 44m 30s.xml">
+      <configuration name="JunitLearningTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitLearningTest - 2019.06.23 at 13h 48m 21s.xml">
+      <configuration name="JunitLearningTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitLearningTest_test2 - 2019.06.23 at 13h 50m 13s.xml">
+      <configuration name="JunitLearningTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitLearningTest_test2 - 2019.06.23 at 13h 51m 25s.xml">
+      <configuration name="JunitLearningTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitLearningTest_test2 - 2019.06.23 at 13h 52m 46s.xml">
+      <configuration name="JunitLearningTest.test2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -294,24 +313,24 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25864553" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25864553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32971507" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32971507" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32971507" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.37313432" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32971507" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32971507" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32971507" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.37313432" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -362,8 +381,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/JunitLearningTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="139">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -372,8 +391,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/company/ArraysUtilTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        <state relative-caret-position="140">
+          <caret line="24" column="110" selection-start-line="24" selection-start-column="110" selection-end-line="24" selection-end-column="110" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
